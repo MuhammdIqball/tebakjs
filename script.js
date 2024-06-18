@@ -1,4 +1,4 @@
-let angkaRandom = Math.floor(Math.random() * 100) + 1; 
+let angkaRandom = Math.floor(Math.random() * 10) + 1; 
 let coba = 0;
 
 function makeGuess() {
